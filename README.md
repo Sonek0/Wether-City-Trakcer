@@ -1,6 +1,6 @@
 # 06 Server-Side APIs: Weather Dashboard
 
-## M Task
+## My Task
 
 Using third party apis to test my knowledge of applying them to JS while incorperating local storage. This will hopefully help display my knowledge check on what i learned in bootcamp.
 ## User Story
